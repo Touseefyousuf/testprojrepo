@@ -7,6 +7,7 @@ public class DemoTestClass {
 	//added the comment
 		System.out.println("added other statement");
 		System.out.println("first statement for commit.im modifying it");
+		System.out.println("helloo third statement");
 
 	}
 
